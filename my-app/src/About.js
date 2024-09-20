@@ -1,3 +1,6 @@
+import React from 'react';
+// import './Resume.css'; // Include custom CSS for height control
+
 const About = () => {
     return (
         <div>
